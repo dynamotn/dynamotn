@@ -4,10 +4,10 @@
 [![committers.top badge](https://user-badge.committers.top/vietnam_public/dynamotn.svg)](https://user-badge.committers.top/vietnam_public/dynamotn)
 
 ```
+Tam nhân hành, tất hữu ngã sư
 三人行，必有我师
 Walking among three people, I find my teacher among them
-Tam nhân hành, tất hữu ngã sư
-                                        - 孔子 / Confucius / Khổng Tử
+                                        - Khổng Tử / 孔子 / Confucius /
 ```
 
 ---
