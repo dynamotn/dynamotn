@@ -3,10 +3,17 @@
 ![](https://komarev.com/ghpvc/?username=dynamotn&color=blue&style=flat&abbreviated=true)
 [![committers.top badge](https://user-badge.committers.top/vietnam_public/dynamotn.svg)](https://user-badge.committers.top/vietnam_public/dynamotn)
 
+```
+三人行，必有我师
+Walking among three people, I find my teacher among them
+Tam nhân hành, tất hữu ngã sư
+                                        - 孔子 / Confucius / Khổng Tử
+```
+
 ---
 
 ### About me
-- My name is **Nam**. You can call me **Dynamo**.
+- My name is **Nam** from 🇻🇳. You can call me **Dynamo**.
 - I'm an **Whatever Software Engineer** and have **M-shaped** skills:
   - A **Solution Architect** with a passion for creating and implementing innovative solutions that address real-world challenges.
   - A **DevOps Engineer** with a strong background in both on-premises and cloud platforms (GCP/AWS/Azure), CI/CD implementation, and infrastructure automation. Skilled in IaC, containerization, Kubernetes, and various DevOps tools.
